@@ -10,3 +10,5 @@ There are essentially 5 different ways that the population of the query is calcu
 4. Same as 3, but the grid is created using ForkJoin framework. 
 5. Same as 3, but 4 threads create and add to a locked grid concurrently. 
 
+Some analysis of timing between different versions of the programs are under the observations folder! 
+
